@@ -56,3 +56,5 @@ mental-health-prediction-system/
 <img width="305" height="116" alt="image" src="https://github.com/user-attachments/assets/74462afe-063a-4d0c-8210-cd13c41ff8e5" />
 <img width="341" height="254" alt="image" src="https://github.com/user-attachments/assets/863f4029-4859-42f8-ab10-2df9460c75f6" />
 
+## Author 
+Aastha Sehgal
