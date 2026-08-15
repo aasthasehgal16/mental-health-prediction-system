@@ -58,3 +58,7 @@ mental-health-prediction-system/
 
 ## Author 
 Aastha Sehgal
+
+## Connect with me
+📧 sehgalaastha2@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE) &nbsp;|&nbsp; [GitHub](https://github.com/aasthasehgal16)
+
